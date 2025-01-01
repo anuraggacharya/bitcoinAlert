@@ -1,0 +1,1 @@
+This script fetches real time price of BTCUSD from binance api and generates a desktop notification when a certain condition is met. In this case notification is pushed when BTCUSD crosses a fixed threshold value.
